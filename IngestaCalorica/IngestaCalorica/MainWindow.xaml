@@ -1,0 +1,39 @@
+﻿<Window x:Class="IngestaCalorica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IngestaCalorica"
+        mc:Ignorable="d"
+        Title="Ingesta Calórica" Height="600" Width="1000"
+        Name="ventana" Icon="icono.png" SizeChanged="ventana_SizeChanged">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Name="dp" Grid.Row="0">
+            <Menu>
+                <MenuItem Header="_Archivo">
+                    <MenuItem Header="_Exportar gráfico" Click="ExportarGrafico_Click"/>
+                    <MenuItem Header="_Salir" Click="Salir_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Visualización">
+                    <MenuItem Header="Mostrar _tabla" Click="MostrarTabla_Click"/>
+                    <MenuItem Header="Cambiar _diseño" Click="CambiarDiseno_Click"/>
+                    <MenuItem Header="Mostrar _medias" Click="MostrarMedias_Click"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        
+        <StackPanel Grid.Row="1" Name="panel" Orientation="Horizontal">
+            <Label Name="etiqueta" Content="EVOLUCIÓN DE LA INGESTA CALÓRICA DEL USUARIO"
+                   Background="PaleGoldenrod" HorizontalContentAlignment="Center" Width="1000"/>
+        </StackPanel>
+
+        <Canvas  Name="canvas" Grid.Row="2"/>
+
+    </Grid>
+</Window>

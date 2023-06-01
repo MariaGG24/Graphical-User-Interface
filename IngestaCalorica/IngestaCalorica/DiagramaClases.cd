@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IngestaCalorica.VentanaDiseno">
+    <Position X="1.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAgAAAEAAAAAAgIIEAAAAAGAAAgAAQAAACcIAIAIA=</HashCode>
+      <FileName>VentanaDiseno.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IngestaCalorica.ColorEventArgs">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>VentanaDiseno.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngestaCalorica.MainWindow">
+    <Position X="7" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAABYmAAiAAACBAACABAIAAgAwRAAIAAAAACAAAFgA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IngestaCalorica.TablaDatos">
+    <Position X="13.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAIAAAAAAAAIAAAAAACIgAgAAAAACAACAAAAA=</HashCode>
+      <FileName>TablaDatos.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IngestaCalorica.CaloriasDias">
+    <Position X="11" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAKAQAAACIAAEAAAAgAAAiAAAAAQAAAAAAAA=</HashCode>
+      <FileName>CaloriasDias.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IngestaCalorica.TablaComidas">
+    <Position X="13.25" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAIAAAAAgAgAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>TablaComidas.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IngestaCalorica.BarrasEventArgs">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TablaDatos.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IngestaCalorica.TablaEventArgs">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TablaDatos.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

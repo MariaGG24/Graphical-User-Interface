@@ -1,0 +1,78 @@
+﻿<Window x:Class="IngestaCalorica.VentanaDiseno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IngestaCalorica"
+        mc:Ignorable="d"
+        Title="Cambiar Diseño" Name="diseno" Height="450" Width="800" Icon="icono.png" SizeChanged="Window_SizeChanged">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Label Name="instruccion" Content="ELIJA EL COLOR QUE LE QUIERE DAR AL FONDO DE SU VENTANA" 
+               Grid.ColumnSpan="4" HorizontalAlignment="Center" VerticalAlignment="Center"
+               FontSize="24" Background="AntiqueWhite" Grid.Row="0"/>
+
+        <Button Name="azul" Margin="10" Width="60" Height="60" Grid.Row="1" Grid.Column="0" Click="azul_Click">
+            <Rectangle Name="recAzul" Fill="Blue" Width="60" Height="60"/>
+        </Button>
+        <Button Name="rojo" Margin="10" Width="60" Height="60" Grid.Row="1" Grid.Column="1" Click="rojo_Click">
+            <Rectangle Name="recRojo" Fill="Red" Width="60" Height="60"/>
+        </Button>
+        <Button Name="verde" Margin="10" Width="60" Height="60" Grid.Row="1" Grid.Column="2" Click="verde_Click">
+            <Rectangle Name="recVerde" Fill="Green" Width="60" Height="60"/>
+        </Button>
+        <Button Name="marron" Margin="10" Width="60" Height="60" Grid.Row="1" Grid.Column="3" Click="marron_Click">
+            <Rectangle Name="recMarron" Fill="SaddleBrown" Width="60" Height="60"/>
+        </Button>
+        <Button Name="azulClaro" Margin="10" Width="60" Height="60" Grid.Row="2" Grid.Column="0" Click="azulClaro_Click">
+            <Rectangle Name="recAzulClaro" Fill="LightBlue" Width="60" Height="60"/>
+        </Button>
+        <Button Name="blanco" Margin="10" Width="60" Height="60" Grid.Row="2" Grid.Column="1" Click="blanco_Click">
+            <Rectangle Name="recBlanco" Fill="White" Width="60" Height="60"/>
+        </Button>
+        <Button Name="azure" Margin="10" Width="60" Height="60" Grid.Row="2" Grid.Column="2" Click="azure_Click">
+            <Rectangle Name="recAzure" Fill="Azure" Width="60" Height="60"/>
+        </Button>
+        <Button Name="beige" Margin="10" Width="60" Height="60" Grid.Row="2" Grid.Column="3" Click="beige_Click">
+            <Rectangle Name="recBeige" Fill="Beige" Width="60" Height="60"/>
+        </Button>
+        <Button Name="negro" Margin="10" Width="60" Height="60" Grid.Row="3" Grid.Column="0" Click="negro_Click">
+            <Rectangle Name="recNegro" Fill="Black" Width="60" Height="60"/>
+        </Button>
+        <Button Name="lila" Margin="10" Width="60" Height="60" Grid.Row="3" Grid.Column="1" Click="lila_Click">
+            <Rectangle Name="recLila" Fill="MediumPurple" Width="60" Height="60"/>
+        </Button>
+        <Button Name="naranja" Margin="10" Width="60" Height="60" Grid.Row="3" Grid.Column="2" Click="naranja_Click">
+            <Rectangle Name="recNaranja" Fill="DarkOrange" Width="60" Height="60"/>
+        </Button>
+        <Button Name="lima" Margin="10" Width="60" Height="60" Grid.Row="3" Grid.Column="3" Click="lima_Click">
+            <Rectangle Name="recLima" Fill="Lime" Width="60" Height="60"/>
+        </Button>
+        <Button Name="azulMarino" Margin="10" Width="60" Height="60" Grid.Row="4" Grid.Column="0" Click="azulMarino_Click">
+            <Rectangle Name="recAzulMarino" Fill="Navy" Width="60" Height="60"/>
+        </Button>
+        <Button Name="violeta" Margin="10" Width="60" Height="60" Grid.Row="4" Grid.Column="1" Click="violeta_Click">
+            <Rectangle Name="recVioleta" Fill="Violet" Width="60" Height="60"/>
+        </Button>
+        <Button Name="azulRoyal" Margin="10" Width="60" Height="60" Grid.Row="4" Grid.Column="2" Click="azulRoyal_Click">
+            <Rectangle Name="recAzulRoyal" Fill="RoyalBlue" Width="60" Height="60"/>
+        </Button>
+        <Button Name="rojoTomate" Margin="10" Width="60" Height="60" Grid.Row="4" Grid.Column="3" Click="rojoTomate_Click">
+            <Rectangle Name="recRojoTomate" Fill="Tomato" Width="60" Height="60"/>
+        </Button>
+    </Grid>
+</Window>

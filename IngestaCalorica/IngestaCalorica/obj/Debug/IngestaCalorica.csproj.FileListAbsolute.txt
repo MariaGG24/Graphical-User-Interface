@@ -1,0 +1,38 @@
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\TablaDatos.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\VentanaDiseno.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica_MarkupCompile.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica_MarkupCompile.lref
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\bin\Debug\IngestaCalorica.exe.config
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\bin\Debug\IngestaCalorica.exe
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\bin\Debug\IngestaCalorica.pdb
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\TablaDatos.baml
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\VentanaDiseno.baml
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.g.resources
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.exe
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica\IngestaCalorica\obj\Debug\IngestaCalorica.pdb
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\bin\Debug\IngestaCalorica.exe.config
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\bin\Debug\IngestaCalorica.exe
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\bin\Debug\IngestaCalorica.pdb
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\TablaDatos.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\VentanaDiseno.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica_MarkupCompile.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica_MarkupCompile.lref
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\TablaDatos.baml
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\VentanaDiseno.baml
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.g.resources
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.exe
+\\vmware-host\Shared Folders\Escritorio\IngestaCalorica 2\IngestaCalorica\obj\Debug\IngestaCalorica.pdb
